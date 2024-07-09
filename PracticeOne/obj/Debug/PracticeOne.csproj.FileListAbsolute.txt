@@ -1,0 +1,7 @@
+C:\Users\HY\Documents\Personal Stuffs\Personal Projects\PracticeOne\bin\Debug\PracticeOne.exe.config
+C:\Users\HY\Documents\Personal Stuffs\Personal Projects\PracticeOne\bin\Debug\PracticeOne.exe
+C:\Users\HY\Documents\Personal Stuffs\Personal Projects\PracticeOne\bin\Debug\PracticeOne.pdb
+C:\Users\HY\Documents\Personal Stuffs\Personal Projects\PracticeOne\obj\Debug\PracticeOne.csproj.AssemblyReference.cache
+C:\Users\HY\Documents\Personal Stuffs\Personal Projects\PracticeOne\obj\Debug\PracticeOne.csproj.CoreCompileInputs.cache
+C:\Users\HY\Documents\Personal Stuffs\Personal Projects\PracticeOne\obj\Debug\PracticeOne.exe
+C:\Users\HY\Documents\Personal Stuffs\Personal Projects\PracticeOne\obj\Debug\PracticeOne.pdb
